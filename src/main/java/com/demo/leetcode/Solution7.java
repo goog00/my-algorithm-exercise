@@ -1,11 +1,22 @@
 package com.demo.leetcode;
 
 /**
+ *
+ *
  * @author steng
  * @description
  * @date 2020-07-01 5:07 下午
  **/
 public class Solution7 {
+
+
+    /**
+     * 时间复杂度: O(log(x)), x 中大约有log10(x) 位数字
+     * 空间复杂度：O(1)
+     * ​
+     * @param x
+     * @return
+     */
 
     public int reverse(int x) {
         int rev = 0;
