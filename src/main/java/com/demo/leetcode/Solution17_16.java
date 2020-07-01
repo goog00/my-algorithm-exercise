@@ -1,6 +1,6 @@
 package com.demo.leetcode;
 
-class Solution17 {
+class Solution17_16 {
     public int massage(int[] nums) {
         if(nums == null || nums.length == 0){
             return 0;
