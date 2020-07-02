@@ -13,7 +13,8 @@ public class Shell {
         int N = a.length;
         int h = 1;
         while (h < N / 3) {
-            h = 3 * h + 1;
+            h = 3*h + 1;
+            System.out.println(h);
         }
 
         while (h >= 1) {
@@ -49,5 +50,7 @@ public class Shell {
         Comparable[] a = {3, 9, 10, 1, 2, 5};
         sort(a);
         show(a);
+
+
     }
 }

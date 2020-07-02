@@ -22,7 +22,7 @@ public class Example {
 
     public static void show(Comparable[] a) { // 在单行中打印数组
         for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i] + " ");
+            System.out.print(a[i] + " ");
         }
     }
 }

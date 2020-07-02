@@ -1,4 +1,4 @@
-package com.demo.leetcode;
+package com.demo.leetcode.dp;
 
 class Solution746 {
     public static int minCostClimbingStairs(int[] cost) {
