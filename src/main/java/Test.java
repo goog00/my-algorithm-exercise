@@ -13,6 +13,12 @@ public class Test {
 
         int k3 = re3(11);
         System.out.println(k3);
+
+
+
+        char[] chars = new char[]{'a'};
+        String str = "";
+        str.valueOf(chars[0]);
     }
 
     public static int re(int n){
@@ -55,5 +61,8 @@ public class Test {
             return fib[n];
         }
         return fib[n] = re3(n-1) + re3(n-2);
+
+
+
     }
 }
