@@ -11,7 +11,7 @@ import com.demo.leetcode.回溯算法.ListNode;
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class SolutionOffer22_1 {
     public ListNode getKthFromEnd(ListNode head, int k) {
            ListNode slow = head;
            ListNode fast = head;
