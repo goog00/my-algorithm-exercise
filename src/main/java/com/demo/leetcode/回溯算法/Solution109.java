@@ -6,6 +6,9 @@ package com.demo.leetcode.回溯算法; /**
  *     ListNode(int x) { val = x; }
  * }
  */
+
+import com.demo.leetcode.ListNode;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

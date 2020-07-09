@@ -1,6 +1,6 @@
 package com.demo.leetcode.双指针;
 
-import com.demo.leetcode.回溯算法.ListNode;
+import com.demo.leetcode.ListNode;
 
 /**
  * 双指针

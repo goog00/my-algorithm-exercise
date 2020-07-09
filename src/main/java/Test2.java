@@ -33,6 +33,9 @@ public class Test2 {
         int k = -10;
         k = reverse(k);
         System.out.println(k);
+        String kk = new String();
+        kk.indexOf("2");
+        kk.toCharArray();
 
     }
 }
